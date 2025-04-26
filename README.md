@@ -44,7 +44,12 @@ Me apasiona construir soluciones web y móviles modernas, combinando lo mejor de
 
 ![Top Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickLaraPE&layout=compact&theme=radical)
 
-> Reemplaza `TU_USUARIO` por tu nombre real de usuario de GitHub para que se genere el gráfico.
+
+---
+
+## 📊 Actividad reciente
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ErickLaraPE&theme=react-dark&area=true)
 
 ---
 
