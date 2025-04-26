@@ -1,6 +1,6 @@
 # 👨‍💻 About Me:
 
-Fullstack Developer Jr specialized in building modern web and mobile applications using **JavaScript**, **React**, **Node.js**, **Java Spring Boot**, and **React Native**.  
+B2 English Level Fullstack Developer Jr specialized in building modern web and mobile applications using **JavaScript**, **React**, **Node.js**, **Java Spring Boot**, and **React Native**.  
 Trained in the MERN and Java stack, with strong skills in **SQL** and **NoSQL** databases, unit testing, service integration with **OAuth2**, secure development with **Spring Security**, and deployments using **Docker**.  
 I work using Agile methodologies, mainly **Scrum**, to ensure continuous value delivery.
 
